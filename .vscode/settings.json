@@ -1,0 +1,19 @@
+{
+    "coboleditor.template_microfocus": [
+        "",
+        "       environment division.",
+        "       configuration section.",
+        "",
+        "       data division.",
+        "       working-storage section.",
+        "       linkage section.",
+        "",
+        "       procedure division.",
+        "           $0",
+        "           goback.",
+        "",
+        "       end program $1.",
+        ""
+    ],
+    "coboleditor.intellisense_style": "uppercase"
+}
