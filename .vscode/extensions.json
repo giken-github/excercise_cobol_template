@@ -1,5 +1,7 @@
 {
     "recommendations": [
-        "bitlang.cobol"
+        "bitlang.cobol",
+        "mtxr.sqltools",
+        "mtxr.sqltools-driver-pg"
     ]
 }
