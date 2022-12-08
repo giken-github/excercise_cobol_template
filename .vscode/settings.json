@@ -1,3 +1,5 @@
 {
-    "coboleditor.intellisense_style": "uppercase"
+  "coboleditor.intellisense_style": "uppercase",
+  "files.encoding": "shiftjis",
+  "files.autoGuessEncoding": true
 }
