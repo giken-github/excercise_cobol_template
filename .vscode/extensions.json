@@ -1,9 +1,7 @@
 {
-    "recommendations": [
-        "bitlang.cobol",
-        "mtxr.sqltools",
-        "mtxr.sqltools-driver-pg",
-        "bitlang.gnucobol",
-        "olegkunitsyn.gnucobol-debug"
-    ]
+  "recommendations": [
+    "bitlang.cobol",
+    "mtxr.sqltools",
+    "mtxr.sqltools-driver-pg"
+  ]
 }
